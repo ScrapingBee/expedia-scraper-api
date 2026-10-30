@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="expedia-scraper-api" />
+    <img src="https://github.com/user-attachments/assets/3151c2bd-2c19-408a-b8ab-568fb45b585d" alt="expedia-scraper-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/expedia-scraper-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/expedia-scraper-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/expedia-scraper-api.svg)](LICENSE)
